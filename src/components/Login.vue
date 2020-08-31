@@ -3,7 +3,7 @@
     <v-row class="text-center">
       <v-col class="mb-4">
         <p class="subheading font-weight-regular">
-          hello
+          Login
         </p>
       </v-col>
     </v-row>
@@ -12,7 +12,7 @@
 
 <script>
   export default {
-    name: 'HelloWorld',
+    name: 'Login',
     data: () => ({ }),
   }
 </script>
