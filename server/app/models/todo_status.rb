@@ -1,0 +1,2 @@
+class TodoStatus < ApplicationRecord
+end

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  todostatus: one
+  user: one
+  problem: one
+
+two:
+  id: 1
+  todostatus: two
+  user: two
+  problem: two

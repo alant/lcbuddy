@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  email: MyString
+  last_seen: 2020-09-02 16:58:30
+  github_username: MyString
+  facebook_id: MyString
+  twitter_id: 
+
+two:
+  id: 1
+  email: MyString
+  last_seen: 2020-09-02 16:58:30
+  github_username: MyString
+  facebook_id: MyString
+  twitter_id: 
